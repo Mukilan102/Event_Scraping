@@ -1,0 +1,43 @@
+name: HARTS Event Scout
+
+on:
+  schedule:
+    - cron: '30 3 * * 1'   # Every Monday 9:00 AM IST (3:30 AM UTC)
+  workflow_dispatch:        # Also allows manual "Run workflow" button on GitHub
+
+permissions:
+  contents: write           # Needed to commit the updated Excel back to the repo
+
+jobs:
+  scout:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Cache pip dependencies
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/pip
+          key: ${{ runner.os }}-pip-${{ hashFiles('requirements.txt') }}
+          restore-keys: ${{ runner.os }}-pip-
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run Event Scout
+        run: python event_scout.py
+
+      - name: Commit updated Excel and log back to repo
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name  "GitHub Actions"
+          git add HARTS_Events.xlsx event_scout.log || true
+          git diff --staged --quiet || git commit -m "chore: event scout run $(date +'%Y-%m-%d')"
+          git push
