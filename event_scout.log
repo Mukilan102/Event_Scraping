@@ -1211,3 +1211,125 @@
   Errors     : 0
 ============================================================
 
+2026-08-10 05:05:26,368 [INFO] ============================================================
+2026-08-10 05:05:26,368 [INFO] HARTS Event Scout starting — 2026-08-10
+2026-08-10 05:05:26,368 [INFO] ============================================================
+2026-08-10 05:05:26,368 [INFO] PHASE 1 — Discovering URLs across 50 queries …
+2026-08-10 05:05:26,368 [WARNING] Impersonate 'safari_15.6.1' does not exist, using 'random'
+2026-08-10 05:05:26,371 [INFO]   Query 01/50: GCC Global Capability Center conference 2025 India
+2026-08-10 05:05:26,683 [INFO] response: https://duckduckgo.com/ 200
+2026-08-10 05:05:26,789 [INFO] response: https://links.duckduckgo.com/d.js?q=GCC+Global+Capability+Center+conference+2025+India&kl=wt-wt&l=wt-wt&p=&s=0&df=&vqd=4-275102614865880715543067406818804215015&bing_market=wt-WT&ex=-1 202
+2026-08-10 05:05:26,789 [WARNING]   Search failed for 'GCC Global Capability Center conference 2025 India': https://links.duckduckgo.com/d.js?q=GCC+Global+Capability+Center+conference+2025+India&kl=wt-wt&l=wt-wt&p=&s=0&df=&vqd=4-275102614865880715543067406818804215015&bing_market=wt-WT&ex=-1 202 Ratelimit
+2026-08-10 05:05:28,290 [INFO]   Query 02/50: Global Capability Center summit leadership 2025
+2026-08-10 05:05:28,290 [WARNING]   Search failed for 'Global Capability Center summit leadership 2025': Exception occurred in previous call.
+2026-08-10 05:05:29,790 [INFO]   Query 03/50: NASSCOM GCC summit 2025
+2026-08-10 05:05:29,790 [WARNING]   Search failed for 'NASSCOM GCC summit 2025': Exception occurred in previous call.
+2026-08-10 05:05:31,291 [INFO]   Query 04/50: Shared Services conference summit 2025
+2026-08-10 05:05:31,291 [WARNING]   Search failed for 'Shared Services conference summit 2025': Exception occurred in previous call.
+2026-08-10 05:05:32,791 [INFO]   Query 05/50: SSON Shared Services excellence conference 2025
+2026-08-10 05:05:32,791 [WARNING]   Search failed for 'SSON Shared Services excellence conference 2025': Exception occurred in previous call.
+2026-08-10 05:05:34,291 [INFO]   Query 06/50: Global Business Services GBS summit 2025
+2026-08-10 05:05:34,292 [WARNING]   Search failed for 'Global Business Services GBS summit 2025': Exception occurred in previous call.
+2026-08-10 05:05:35,792 [INFO]   Query 07/50: GCC operating model strategy forum 2025
+2026-08-10 05:05:35,792 [WARNING]   Search failed for 'GCC operating model strategy forum 2025': Exception occurred in previous call.
+2026-08-10 05:05:37,292 [INFO]   Query 08/50: Global In-house Center conference India 2025
+2026-08-10 05:05:37,292 [WARNING]   Search failed for 'Global In-house Center conference India 2025': Exception occurred in previous call.
+2026-08-10 05:05:38,793 [INFO]   Query 09/50: GCC scaling leadership forum Asia 2025
+2026-08-10 05:05:38,793 [WARNING]   Search failed for 'GCC scaling leadership forum Asia 2025': Exception occurred in previous call.
+2026-08-10 05:05:40,293 [INFO]   Query 10/50: Shared Services transformation conference 2025
+2026-08-10 05:05:40,293 [WARNING]   Search failed for 'Shared Services transformation conference 2025': Exception occurred in previous call.
+2026-08-10 05:05:41,793 [INFO]   Query 11/50: GBS delivery model conference 2025
+2026-08-10 05:05:41,794 [WARNING]   Search failed for 'GBS delivery model conference 2025': Exception occurred in previous call.
+2026-08-10 05:05:43,294 [INFO]   Query 12/50: GCC India Bangalore Hyderabad summit 2025
+2026-08-10 05:05:43,294 [WARNING]   Search failed for 'GCC India Bangalore Hyderabad summit 2025': Exception occurred in previous call.
+2026-08-10 05:05:44,794 [INFO]   Query 13/50: Organization Design conference 2025
+2026-08-10 05:05:44,794 [WARNING]   Search failed for 'Organization Design conference 2025': Exception occurred in previous call.
+2026-08-10 05:05:46,294 [INFO]   Query 14/50: Operating model transformation summit 2025
+2026-08-10 05:05:46,294 [WARNING]   Search failed for 'Operating model transformation summit 2025': Exception occurred in previous call.
+2026-08-10 05:05:47,795 [INFO]   Query 15/50: Enterprise transformation conference 2025
+2026-08-10 05:05:47,795 [WARNING]   Search failed for 'Enterprise transformation conference 2025': Exception occurred in previous call.
+2026-08-10 05:05:49,295 [INFO]   Query 16/50: Organizational effectiveness leadership forum 2025
+2026-08-10 05:05:49,295 [WARNING]   Search failed for 'Organizational effectiveness leadership forum 2025': Exception occurred in previous call.
+2026-08-10 05:05:50,795 [INFO]   Query 17/50: Change management conference senior leadership 2025
+2026-08-10 05:05:50,795 [WARNING]   Search failed for 'Change management conference senior leadership 2025': Exception occurred in previous call.
+2026-08-10 05:05:52,296 [INFO]   Query 18/50: OD organizational development conference 2025
+2026-08-10 05:05:52,296 [WARNING]   Search failed for 'OD organizational development conference 2025': Exception occurred in previous call.
+2026-08-10 05:05:53,796 [INFO]   Query 19/50: Enterprise restructuring transformation summit 2025
+2026-08-10 05:05:53,796 [WARNING]   Search failed for 'Enterprise restructuring transformation summit 2025': Exception occurred in previous call.
+2026-08-10 05:05:55,296 [INFO]   Query 20/50: Business transformation conference CXO 2025
+2026-08-10 05:05:55,297 [WARNING]   Search failed for 'Business transformation conference CXO 2025': Exception occurred in previous call.
+2026-08-10 05:05:56,797 [INFO]   Query 21/50: Centre of Excellence setup strategy conference 2025
+2026-08-10 05:05:56,797 [WARNING]   Search failed for 'Centre of Excellence setup strategy conference 2025': Exception occurred in previous call.
+2026-08-10 05:05:58,297 [INFO]   Query 22/50: Enterprise capability building COE summit 2025
+2026-08-10 05:05:58,297 [WARNING]   Search failed for 'Enterprise capability building COE summit 2025': Exception occurred in previous call.
+2026-08-10 05:05:59,798 [INFO]   Query 23/50: COE strategy leadership forum 2025
+2026-08-10 05:05:59,798 [WARNING]   Search failed for 'COE strategy leadership forum 2025': Exception occurred in previous call.
+2026-08-10 05:06:01,298 [INFO]   Query 24/50: Center of Excellence governance conference 2025
+2026-08-10 05:06:01,298 [WARNING]   Search failed for 'Center of Excellence governance conference 2025': Exception occurred in previous call.
+2026-08-10 05:06:02,798 [INFO]   Query 25/50: Post merger integration conference 2025
+2026-08-10 05:06:02,798 [WARNING]   Search failed for 'Post merger integration conference 2025': Exception occurred in previous call.
+2026-08-10 05:06:04,299 [INFO]   Query 26/50: M&A integration summit leadership 2025
+2026-08-10 05:06:04,299 [WARNING]   Search failed for 'M&A integration summit leadership 2025': Exception occurred in previous call.
+2026-08-10 05:06:05,799 [INFO]   Query 27/50: Corporate restructuring conference 2025
+2026-08-10 05:06:05,799 [WARNING]   Search failed for 'Corporate restructuring conference 2025': Exception occurred in previous call.
+2026-08-10 05:06:07,299 [INFO]   Query 28/50: M&A value creation leadership forum 2025
+2026-08-10 05:06:07,299 [WARNING]   Search failed for 'M&A value creation leadership forum 2025': Exception occurred in previous call.
+2026-08-10 05:06:08,800 [INFO]   Query 29/50: Post acquisition integration strategy conference 2025
+2026-08-10 05:06:08,800 [WARNING]   Search failed for 'Post acquisition integration strategy conference 2025': Exception occurred in previous call.
+2026-08-10 05:06:10,300 [INFO]   Query 30/50: Enterprise integration management summit 2025
+2026-08-10 05:06:10,300 [WARNING]   Search failed for 'Enterprise integration management summit 2025': Exception occurred in previous call.
+2026-08-10 05:06:11,800 [INFO]   Query 31/50: RPO recruitment process outsourcing summit 2025
+2026-08-10 05:06:11,800 [WARNING]   Search failed for 'RPO recruitment process outsourcing summit 2025': Exception occurred in previous call.
+2026-08-10 05:06:13,300 [INFO]   Query 32/50: Talent acquisition leadership forum 2025
+2026-08-10 05:06:13,301 [WARNING]   Search failed for 'Talent acquisition leadership forum 2025': Exception occurred in previous call.
+2026-08-10 05:06:14,801 [INFO]   Query 33/50: Recruitment as a Service conference 2025
+2026-08-10 05:06:14,801 [WARNING]   Search failed for 'Recruitment as a Service conference 2025': Exception occurred in previous call.
+2026-08-10 05:06:16,301 [INFO]   Query 34/50: HR talent strategy conference 2025
+2026-08-10 05:06:16,301 [WARNING]   Search failed for 'HR talent strategy conference 2025': Exception occurred in previous call.
+2026-08-10 05:06:17,801 [INFO]   Query 35/50: Workforce planning leadership summit 2025
+2026-08-10 05:06:17,802 [WARNING]   Search failed for 'Workforce planning leadership summit 2025': Exception occurred in previous call.
+2026-08-10 05:06:19,302 [INFO]   Query 36/50: Executive coaching conference ICF 2025
+2026-08-10 05:06:19,302 [WARNING]   Search failed for 'Executive coaching conference ICF 2025': Exception occurred in previous call.
+2026-08-10 05:06:20,802 [INFO]   Query 37/50: Board advisory leadership summit 2025
+2026-08-10 05:06:20,802 [WARNING]   Search failed for 'Board advisory leadership summit 2025': Exception occurred in previous call.
+2026-08-10 05:06:22,303 [INFO]   Query 38/50: C-suite CXO strategy leadership forum 2025
+2026-08-10 05:06:22,303 [WARNING]   Search failed for 'C-suite CXO strategy leadership forum 2025': Exception occurred in previous call.
+2026-08-10 05:06:23,803 [INFO]   Query 39/50: Senior executive leadership development summit 2025
+2026-08-10 05:06:23,803 [WARNING]   Search failed for 'Senior executive leadership development summit 2025': Exception occurred in previous call.
+2026-08-10 05:06:25,303 [INFO]   Query 40/50: Board governance directors conference 2025
+2026-08-10 05:06:25,303 [WARNING]   Search failed for 'Board governance directors conference 2025': Exception occurred in previous call.
+2026-08-10 05:06:26,804 [INFO]   Query 41/50: Executive leadership coaching forum 2025
+2026-08-10 05:06:26,804 [WARNING]   Search failed for 'Executive leadership coaching forum 2025': Exception occurred in previous call.
+2026-08-10 05:06:28,304 [INFO]   Query 42/50: Everest Group analyst summit outsourcing 2025
+2026-08-10 05:06:28,304 [WARNING]   Search failed for 'Everest Group analyst summit outsourcing 2025': Exception occurred in previous call.
+2026-08-10 05:06:29,804 [INFO]   Query 43/50: ISG outsourcing summit 2025
+2026-08-10 05:06:29,805 [WARNING]   Search failed for 'ISG outsourcing summit 2025': Exception occurred in previous call.
+2026-08-10 05:06:31,305 [INFO]   Query 44/50: Deloitte consulting leadership summit 2025
+2026-08-10 05:06:31,305 [WARNING]   Search failed for 'Deloitte consulting leadership summit 2025': Exception occurred in previous call.
+2026-08-10 05:06:32,805 [INFO]   Query 45/50: EY strategy transformation conference 2025
+2026-08-10 05:06:32,805 [WARNING]   Search failed for 'EY strategy transformation conference 2025': Exception occurred in previous call.
+2026-08-10 05:06:34,305 [INFO]   Query 46/50: CII industry leadership summit India 2025
+2026-08-10 05:06:34,306 [WARNING]   Search failed for 'CII industry leadership summit India 2025': Exception occurred in previous call.
+2026-08-10 05:06:35,806 [INFO]   Query 47/50: SHRM HR leadership conference 2025
+2026-08-10 05:06:35,806 [WARNING]   Search failed for 'SHRM HR leadership conference 2025': Exception occurred in previous call.
+2026-08-10 05:06:37,306 [INFO]   Query 48/50: People Matters HR summit 2025
+2026-08-10 05:06:37,306 [WARNING]   Search failed for 'People Matters HR summit 2025': Exception occurred in previous call.
+2026-08-10 05:06:38,806 [INFO]   Query 49/50: ETHRWorld HR transformation summit 2025
+2026-08-10 05:06:38,807 [WARNING]   Search failed for 'ETHRWorld HR transformation summit 2025': Exception occurred in previous call.
+2026-08-10 05:06:40,307 [INFO]   Query 50/50: CHRO chief HR officer leadership forum 2025
+2026-08-10 05:06:40,307 [WARNING]   Search failed for 'CHRO chief HR officer leadership forum 2025': Exception occurred in previous call.
+2026-08-10 05:06:41,807 [INFO] PHASE 1 complete — 0 unique URLs collected.
+2026-08-10 05:06:41,807 [INFO] PHASE 2 — Extracting event details from 0 pages …
+2026-08-10 05:06:41,807 [INFO] PHASE 2 complete — 0 events scored ≥6.
+2026-08-10 05:06:41,807 [INFO] PHASE 3 — Updating Excel: HARTS_Events.xlsx
+2026-08-10 05:06:41,811 [INFO]   Loaded existing file (0 rows).
+2026-08-10 05:06:41,814 [INFO] PHASE 3 complete — 0 new events added.
+2026-08-10 05:06:41,814 [INFO] PHASE 4 — M365 reminders are currently disabled.
+2026-08-10 05:06:41,814 [INFO] 
+============================================================
+  HARTS Event Scout — Run Summary
+  Date       : 10 August 2026
+  New events : 0
+  Errors     : 0
+============================================================
+
