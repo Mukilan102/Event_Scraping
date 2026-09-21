@@ -1839,3 +1839,22 @@
   Errors     : 1
 ============================================================
 
+2026-09-21 09:12:21,305 [INFO] ============================================================
+2026-09-21 09:12:21,305 [INFO] HARTS Event Scout starting — 2026-09-21
+2026-09-21 09:12:21,305 [INFO] ============================================================
+2026-09-21 09:12:21,305 [INFO] PHASE 1 — Discovering URLs across 50 queries …
+2026-09-21 09:12:21,305 [ERROR] PHASE 1 failed: Invalid impersonate: "safari_ios_16.5"
+2026-09-21 09:12:21,305 [INFO] PHASE 2 — Extracting event details from 0 pages …
+2026-09-21 09:12:21,306 [INFO] PHASE 2 complete — 0 events scored ≥6.
+2026-09-21 09:12:21,306 [INFO] PHASE 3 — Updating Excel: HARTS_Events.xlsx
+2026-09-21 09:12:21,311 [INFO]   Loaded existing file (0 rows).
+2026-09-21 09:12:21,315 [INFO] PHASE 3 complete — 0 new events added.
+2026-09-21 09:12:21,315 [INFO] PHASE 4 — M365 reminders are currently disabled.
+2026-09-21 09:12:21,315 [INFO] 
+============================================================
+  HARTS Event Scout — Run Summary
+  Date       : 21 September 2026
+  New events : 0
+  Errors     : 1
+============================================================
+
