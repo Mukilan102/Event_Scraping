@@ -1858,3 +1858,22 @@
   Errors     : 1
 ============================================================
 
+2026-09-28 10:03:46,115 [INFO] ============================================================
+2026-09-28 10:03:46,115 [INFO] HARTS Event Scout starting — 2026-09-28
+2026-09-28 10:03:46,115 [INFO] ============================================================
+2026-09-28 10:03:46,115 [INFO] PHASE 1 — Discovering URLs across 50 queries …
+2026-09-28 10:03:46,116 [ERROR] PHASE 1 failed: Invalid impersonate: "chrome_104"
+2026-09-28 10:03:46,116 [INFO] PHASE 2 — Extracting event details from 0 pages …
+2026-09-28 10:03:46,116 [INFO] PHASE 2 complete — 0 events scored ≥6.
+2026-09-28 10:03:46,116 [INFO] PHASE 3 — Updating Excel: HARTS_Events.xlsx
+2026-09-28 10:03:46,119 [INFO]   Loaded existing file (0 rows).
+2026-09-28 10:03:46,122 [INFO] PHASE 3 complete — 0 new events added.
+2026-09-28 10:03:46,122 [INFO] PHASE 4 — M365 reminders are currently disabled.
+2026-09-28 10:03:46,122 [INFO] 
+============================================================
+  HARTS Event Scout — Run Summary
+  Date       : 28 September 2026
+  New events : 0
+  Errors     : 1
+============================================================
+
